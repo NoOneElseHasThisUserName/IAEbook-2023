@@ -8,9 +8,9 @@ con la interpretación que hará el alumno sueco de lo que cree haber escuchado
 
 Cada capítulo será asignado a un estudiante como se detalla a continuación
 
-Cristian: Título, Prólogo y Dedicatoria
-Mónica: Capítulo 1
-Sandra: Capítulo 2
-Elias: Capítulo 3
-Alberte: Capítulo 4
-Felipe Capítulo 5
+- Cristian: Título, Prólogo y Dedicatoria
+- Mónica: Capítulo 1
+- Sandra: Capítulo 2
+- Elias: Capítulo 3
+- Alberte: Capítulo 4
+- Felipe Capítulo 5
