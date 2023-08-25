@@ -71,3 +71,12 @@ lleno de desafíos y risas. Mientras salía del aula junto con sus compañeros,
 Lars sabía que esta aventura en tierras andaluzas no solo lo llevaría a dominar 
 Python, sino también a experimentar la riqueza de las diferencias culturales 
 y lingüísticas que enriquecían su viaje.
+
+Lars se dio cuenta de que estaba embarcando en mucho más que un simple curso de 
+programación. Cada línea de código que escribía, cada desafío que enfrentaba, 
+era como una nueva página en el libro de su aventura en el mundo digital. 
+A medida que se sumergía más en los conceptos de Python, también descubría 
+paralelos entre la lógica de la programación y la resolución de problemas en 
+la vida cotidiana. Cada pequeño avance en el código se sentía como un paso hacia 
+su crecimiento personal y su comprensión del vasto universo tecnológico que tenía 
+ante él.
