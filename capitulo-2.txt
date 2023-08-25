@@ -69,3 +69,16 @@ las diferencias lingüísticas. Mientras salía del aula, Lars se dio cuenta
 de que esta aventura en tierras andaluzas no solo lo estaba haciendo crecer
 como programador, sino también como alguien que apreciaba las 
 peculiaridades y la diversidad del mundo que lo rodeaba.
+
+A medida que avanzaba la semana, Lars se encontraba cada vez más inmerso en
+la dinámica de la Academia de Programación Málaga. A pesar de los desafíos
+lingüísticos y los momentos divertidos que surgían con el acento andaluz de 
+Juan, Lars notaba un cambio en su enfoque hacia la programación. Comenzaba
+a ver cómo los conceptos abstractos se traducían en líneas de código con un
+propósito real. Aquel día, mientras trabajaba en un ejercicio de práctica 
+sobre variables, pudo sentir una chispa de emoción al ver cómo su código 
+producía resultados en la consola. La satisfacción de ver sus esfuerzos dar
+frutos lo motivaba a seguir adelante, y aunque los malentendidos seguían 
+siendo parte de la experiencia, Lars había aprendido a abrazarlos como una
+parte esencial de su viaje de aprendizaje en el mundo de la programación y
+la cultura andaluza.
