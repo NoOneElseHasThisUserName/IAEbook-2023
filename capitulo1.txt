@@ -4,27 +4,27 @@ Capítulo 1: Un Sueco en Tierras Andaluzas
 Había una vez un joven sueco llamado Lars, cuya pasión por la tecnología 
 lo había llevado a embarcarse en una emocionante aventura: aprender a 
 programar en Python. Lars había dejado atrás las frías tierras nórdicas
- y había llegado a la soleada ciudad de Málaga, en el sur de España. 
- Su objetivo era inscribirse en una academia de programación y 
- sumergirse en el mundo del código.
+y había llegado a la soleada ciudad de Málaga, en el sur de España. 
+Su objetivo era inscribirse en una academia de programación y 
+sumergirse en el mundo del código.
 
 Lars caminó por las estrechas calles adoquinadas de Málaga, maravillándose
- con la arquitectura, el aroma a tapas y el bullicio de la gente.
+con la arquitectura, el aroma a tapas y el bullicio de la gente.
   Finalmente, llegó a la dirección que había anotado en su bloc de notas: 
   "Academia de Programación Málaga" en un rincón tranquilo del centro histórico.
 
 Empujó la puerta de madera y entró en la academia. El interior estaba 
 lleno de computadoras, pizarras y estudiantes inmersos en sus propios 
 mundos de líneas de código. Una voz amigable lo saludó desde el
- mostrador de recepción.
+mostrador de recepción.
 
 Recepcionista: "¡Hola! ¿En qué puedo ayudarte?"
 
 Lars: "¡Hola! Soy Lars, y estoy aquí para inscribirme en un curso de
- programación en Python."
+programación en Python."
 
 Recepcionista: "¡Genial! Bienvenido a la Academia de Programación Málaga.
- ¿Has programado antes?"
+¿Has programado antes?"
 
 Lars: "Sí, tengo algo de experiencia en otros lenguajes, pero quiero aprender 
 Python desde cero."
@@ -42,12 +42,12 @@ Juan: "¡Bienvenidos, chavales! Soy Juan, y seré su profesor en este viaje
 emocionante a través de Python."
 
 El acento andaluz de Juan llenó el aula, y Lars se dio cuenta de que podría
- necesitar un tiempo para acostumbrarse a ese ritmo musical de las palabras.
-  A medida que Juan comenzó a hablar sobre las bases de Python, Lars hizo 
-  su mejor esfuerzo por seguirlo.
+necesitar un tiempo para acostumbrarse a ese ritmo musical de las palabras.
+A medida que Juan comenzó a hablar sobre las bases de Python, Lars hizo 
+su mejor esfuerzo por seguirlo.
 
 Juan: "Empezaremos con los fundamentos. Python e' un lenguaje versátil y sencillo.
- Aquí, esto e' un 'print statement'. Sirve pa' mostrar mensaje' por pantalla."
+Aquí, esto e' un 'print statement'. Sirve pa' mostrar mensaje' por pantalla."
 
 Lars miró a su alrededor, viendo a sus compañeros asintiendo con comprensión. 
 Sin embargo, el término "print statement" le sonaba más como una invitación a 
@@ -66,8 +66,8 @@ hasta "variables" que evocaron imágenes de cajas mágicas, cada nuevo concepto
 traía consigo una pequeña dosis de comedia en su mente.
 
 Al final de la clase, Lars se sintió cansado pero emocionado. Había comprendido
- lo suficiente como para darse cuenta de que su camino de aprendizaje estaría 
- lleno de desafíos y risas. Mientras salía del aula junto con sus compañeros, 
- Lars sabía que esta aventura en tierras andaluzas no solo lo llevaría a dominar 
- Python, sino también a experimentar la riqueza de las diferencias culturales 
- y lingüísticas que enriquecían su viaje.
+lo suficiente como para darse cuenta de que su camino de aprendizaje estaría 
+lleno de desafíos y risas. Mientras salía del aula junto con sus compañeros, 
+Lars sabía que esta aventura en tierras andaluzas no solo lo llevaría a dominar 
+Python, sino también a experimentar la riqueza de las diferencias culturales 
+y lingüísticas que enriquecían su viaje.
