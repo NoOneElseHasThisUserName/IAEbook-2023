@@ -50,3 +50,16 @@ En cada línea de código que escribía y en cada clase que asistía,
 Lars se acercaba más a convertirse en un programador competente y
 también en alguien que apreciaba la belleza de la diversidad en
 todos sus aspectos.
+
+A medida que avanzaba en su curso, Lars también comenzó a explorar
+proyectos personales en Python. Inspirado por su entorno andaluz, 
+decidió crear un programa que generara recetas de tapas al azar. 
+Pasaba horas escribiendo código, probando diferentes combinaciones de 
+ingredientes y sabores. Cuando finalmente logró que el programa generara
+recetas deliciosamente creativas, se sintió como si hubiera fusionado 
+us dos mundos: la pasión por la programación y la rica cultura culinaria
+de Málaga. Compartió su proyecto con sus compañeros de clase y todos se 
+divirtieron mucho experimentando con las tapas "virtuales" que su programa 
+generaba. Estos momentos de creatividad y colaboración enriquecieron aún más 
+su experiencia en la academia y le recordaron que el aprendizaje podía ser 
+divertido y gratificante en todos los sentidos.
