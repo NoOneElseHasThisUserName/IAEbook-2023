@@ -1,0 +1,84 @@
+Capítulo 2: Malentendidos Divertidos
+
+La mañana siguiente, Lars se levantó emocionado por su segunda clase en
+la Academia de Programación Málaga. Mientras desayunaba una tostada con
+aceite de oliva, recordaba las situaciones graciosas de la clase anterior.
+Decidió que esta vez estaría más atento para evitar malentendidos, pero 
+sabía que la peculiaridad del acento andaluz de su profesor seguiría 
+provocando risas en su mente.
+
+Llegó a la academia unos minutos antes de que comenzara la clase y se 
+acomodó en su asiento. Pronto, Juan entró al aula con su habitual energía.
+
+Juan: "¡Buenos días, chavales! Espero que estéis listos pa' seguir 
+explorando el maravilloso mundo de Python."
+
+Lars se aseguró de centrar toda su atención en las palabras de Juan.
+Aunque el acento seguía siendo un desafío, estaba decidido a comprender
+cada concepto correctamente. La clase comenzó con una introducción a las
+variables en Python.
+
+Juan: "Hoy vamos a hablar de 'variables'. Una variable e' como una caja,
+donde podemo' guardar información pa' usarla después. Por ejemplo, si 
+queremo' guarda' un número, podemos ponerlo en una caja y darle un nombre."
+
+Lars asintió, contento de haber entendido la analogía de la caja. Pero su
+mente inquieta no pudo evitar llevar la idea un poco más allá.
+
+Lars: (murmurando para sí mismo) "Así que, ¿si quiero guardar mi sándwich
+para después, lo pongo en una variable llamada 'bocadillo'?"
+
+Esta vez, una risa contenida escapó de sus labios. Sin embargo, su risa se 
+mezcló con las risas genuinas de sus compañeros de clase, que habían notado
+su reacción.
+
+Juan: (riendo) "¡Eso e' ingenioso, Lars! Pero mejor dejamo' las variables 
+pa' la información en el código."
+
+La clase continuó con una explicación detallada de cómo asignar valores a
+variables y cómo utilizarlas en diferentes operaciones. A medida que 
+avanzaban, Lars comenzó a sentirse más cómodo con el ritmo de las palabras
+de Juan. Aunque algunos términos seguían siendo desafiantes, Lars se dio
+cuenta de que estaba mejorando en la interpretación de las instrucciones.
+
+Sin embargo, había un término que causó un nuevo destello de confusión en
+la mente de Lars: "if statement".
+
+Juan: "Ahora, chavales, hablemo' de los 'if statement'. E' una manera de
+tomar decisiones en el código. Si una condición e' verdadera, hacemo' una
+cosa, y si no, hacemo' otra."
+
+Lars frunció el ceño mientras procesaba la explicación. "If statement" 
+sonaba como algo que podría estar relacionado con algún tipo de evento 
+formal. Reflexionó durante un momento y luego sonrió ante su propio 
+pensamiento.
+
+Lars: (riendo suavemente) "Así que, 'if statement' es como cuando estás
+en una fiesta, y si llevas traje, entras a la sala principal, ¡y si no,
+te quedas en la entrada!"
+
+Esta vez, su comentario provocó risas más fuertes en toda la clase. Lars 
+se unió a la risa, disfrutando del ambiente amigable y de la camaradería
+que estaba desarrollando con sus compañeros.
+
+Al final de la clase, Lars se sentía satisfecho. Aunque los conceptos de 
+programación seguían siendo nuevos, se estaba divirtiendo mucho mientras 
+aprendía. Estaba emocionado por continuar explorando el mundo de Python y 
+por los malentendidos cómicos que sin duda seguirían surgiendo debido a 
+las diferencias lingüísticas. Mientras salía del aula, Lars se dio cuenta
+de que esta aventura en tierras andaluzas no solo lo estaba haciendo crecer
+como programador, sino también como alguien que apreciaba las 
+peculiaridades y la diversidad del mundo que lo rodeaba.
+
+A medida que avanzaba la semana, Lars se encontraba cada vez más inmerso en
+la dinámica de la Academia de Programación Málaga. A pesar de los desafíos
+lingüísticos y los momentos divertidos que surgían con el acento andaluz de 
+Juan, Lars notaba un cambio en su enfoque hacia la programación. Comenzaba
+a ver cómo los conceptos abstractos se traducían en líneas de código con un
+propósito real. Aquel día, mientras trabajaba en un ejercicio de práctica 
+sobre variables, pudo sentir una chispa de emoción al ver cómo su código 
+producía resultados en la consola. La satisfacción de ver sus esfuerzos dar
+frutos lo motivaba a seguir adelante, y aunque los malentendidos seguían 
+siendo parte de la experiencia, Lars había aprendido a abrazarlos como una
+parte esencial de su viaje de aprendizaje en el mundo de la programación y
+la cultura andaluza.
