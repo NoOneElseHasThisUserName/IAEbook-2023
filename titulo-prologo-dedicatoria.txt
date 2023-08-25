@@ -1,15 +1,35 @@
 Titulo: "De Suecia a Málaga: Aprendiendo Python con Acento Andaluz"
 
 Prologo:
-En el viaje de aprendizaje de cada individuo, se encuentran momentos que transforman el camino en una narrativa singular. Este relato nos sumerge en la historia de Lars, un joven sueco con una pasión ardiente por la tecnología y una determinación inquebrantable para dominar el arte de la programación. Sus pasos lo llevaron desde las frías tierras nórdicas hasta la cálida y vibrante ciudad de Málaga, en el sur de España, donde se inscribe en una academia de programación con la esperanza de descifrar los misterios del lenguaje Python.
-A través de los ojos de Lars, somos testigos de sus desafíos y triunfos mientras navega por la intricada red de líneas de código. Sin embargo, su viaje es mucho más que un simple proceso de aprendizaje. El aula se convierte en un escenario donde se entrelazan las complejidades de la programación con las sutilezas de la cultura, el lenguaje y la comedia.
-El acento andaluz del profesor Juan se convierte en una melodía que lleva consigo una serie de situaciones cómicas, a medida que Lars interpreta las palabras de maneras inesperadas. En esta encrucijada de idiomas y tecnología, Lars descubre que las risas pueden ser tan instructivas como el propio código.
-El progreso de Lars es un recordatorio de que el aprendizaje no siempre es lineal ni exento de obstáculos. Cada término técnico se convierte en un pequeño rompecabezas y cada concepto, en una aventura por sí mismo. A través de la frustración y el asombro, Lars abraza la oportunidad de crecimiento personal y cultural que este viaje de aprendizaje ofrece.
-Este relato es un homenaje a todos los apasionados de la tecnología y la educación que se aventuran en territorios desconocidos en busca de conocimiento y crecimiento. Es una invitación a sonreír ante la confusión, a abrazar las diferencias y a descubrir la belleza en la intersección entre el mundo del código y la riqueza de las experiencias humanas.
-Adéntrate en estas páginas y acompaña a Lars mientras traza su camino a través de las líneas de código y los acentos andaluces, demostrando que la tecnología no solo es una herramienta, sino también un lienzo en blanco donde se pintan historias de descubrimiento y superación.
+En el viaje de aprendizaje de cada individuo, se encuentran momentos que transforman 
+el camino en una narrativa singular. Este relato nos sumerge en la historia de Lars, 
+un joven sueco con una pasión ardiente por la tecnología y una determinación inquebrantable 
+para dominar el arte de la programación.Sus pasos lo llevaron desde las frías tierras nórdicas 
+hasta la cálida y vibrante ciudad de Málaga, en el sur de España, donde se inscribe en una academia de programación 
+con la esperanza de descifrar los misterios del lenguaje Python.
+
+A través de los ojos de Lars, somos testigos de sus desafíos y triunfos mientras navega 
+por la intricada red de líneas de código. Sin embargo, su viaje es mucho más que un simple proceso de aprendizaje. 
+El aula se convierte en un escenario donde se entrelazan las complejidades de la programación 
+con las sutilezas de la cultura, el lenguaje y la comedia.El acento andaluz del profesor Juan se convierte 
+en una melodía que lleva consigo una serie de situaciones cómicas, a medida que Lars interpreta las palabras
+de maneras inesperadas. En esta encrucijada de idiomas y tecnología, Lars descubre que las risas 
+pueden ser tan instructivas como el propio código.El progreso de Lars es un recordatorio de que 
+el aprendizaje no siempre es lineal ni exento de obstáculos. Cada término técnico se convierte 
+en un pequeño rompecabezas y cada concepto, en una aventura por sí mismo. 
+A través de la frustración y el asombro, Lars abraza la oportunidad de crecimiento personal y cultural 
+que este viaje de aprendizaje ofrece.Este relato es un homenaje a todos los apasionados de la tecnología y la educación 
+que se aventuran en territorios desconocidos en busca de conocimiento y crecimiento. 
+Es una invitación a sonreír ante la confusión, a abrazar las diferencias y a descubrir la belleza 
+en la intersección entre el mundo del código y la riqueza de las experiencias humanas.
+Adéntrate en estas páginas y acompaña a Lars mientras traza su camino 
+a través de las líneas de código y los acentos andaluces, demostrando que la tecnología
+no solo es una herramienta, sino también un lienzo en blanco donde se pintan historias de descubrimiento y superación.
 
 Dedicatoria:
-"Dedicado a aquellos valientes que se aventuran en la maraña de la programación, buscando dominar el lenguaje de las máquinas. 
-A los amantes del aprendizaje sin fronteras y a los que encuentran risas en la diversidad de acentos y culturas. 
-Que estas páginas inspiren a abrazar los desafíos con una sonrisa y a encontrar la alegría en cada línea de código. 
-Con gratitud a todos los profesores que iluminan el camino del conocimiento, y a aquellos que con paciencia y humor, hacen que cada clase sea una historia inolvidable."
+"Dedicado a aquellos valientes que se aventuran en la maraña de la programación, buscando dominar 
+el lenguaje de las máquinas. A los amantes del aprendizaje sin fronteras y a los que encuentran risas 
+en la diversidad de acentos y culturas.Que estas páginas inspiren a abrazar los desafíos 
+con una sonrisa y a encontrar la alegría en cada línea de código.
+Con gratitud a todos los profesores que iluminan el camino del conocimiento, y a aquellos
+que con paciencia y humor, hacen que cada clase sea una historia inolvidable."
