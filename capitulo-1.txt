@@ -1,4 +1,3 @@
-
 Capítulo 1: Un Sueco en Tierras Andaluzas
 
 Había una vez un joven sueco llamado Lars, cuya pasión por la tecnología 
@@ -10,8 +9,8 @@ sumergirse en el mundo del código.
 
 Lars caminó por las estrechas calles adoquinadas de Málaga, maravillándose
 con la arquitectura, el aroma a tapas y el bullicio de la gente.
-  Finalmente, llegó a la dirección que había anotado en su bloc de notas: 
-  "Academia de Programación Málaga" en un rincón tranquilo del centro histórico.
+Finalmente, llegó a la dirección que había anotado en su bloc de notas: 
+"Academia de Programación Málaga" en un rincón tranquilo del centro histórico.
 
 Empujó la puerta de madera y entró en la academia. El interior estaba 
 lleno de computadoras, pizarras y estudiantes inmersos en sus propios 
